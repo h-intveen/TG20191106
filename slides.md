@@ -54,6 +54,7 @@ Note:
 5. punt 5
 
 --
+
 ## Punt 1
 
 - punt a
@@ -63,6 +64,7 @@ Note:
 - punt e
 
 --
+
 ## Punt 2
 
 - punt a
