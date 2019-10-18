@@ -187,7 +187,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Gigitaal platform Toegankelijk Groningen" -->
+<!-- .slide: data-menu-title="˜Digitaal platform Toegankelijk Groningen" -->
 ## Digitaal platform Toegankelijk Groningen
 
 ---
