@@ -37,74 +37,13 @@ Note:
 <!-- .slide: data-menu-title="Agenda" data-background-image="images/stopwatch.jpg" data-background-opacity="0.2" -->
 ## Agenda:
 
-1. Werkgroep toegankelijkheid i.o. Delfzijl
-2. Werkgroep Toegankelijk Groningen
-3. Platform Toegankelijk Groningen
+1. Werkgroep Toegankelijk Groningen
+2. Digitaal platform Toegankelijk Groningen
 
 ---
 
-<!-- .slide: data-menu-title="WWerkgroep i.o. Delfzijl" -->
-## Werkgroep i.o. Delfzijl
-
- **Agenda:**
-1. punt 1
-2. punt 2
-3. punt 3
-4. punt 4
-5. punt 5
-
---
-
-## Punt 1
-
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
-
---
-
-## Punt 2
-
-- punt a
-  - x
-  - y
-- punt b
-  1. a
-  2. b
-- punt c
-- punt d
-- punt e
-
-## Punt 3
-
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
-
-## Punt 4
-
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
-
-## Punt 5
-
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
-
----
-
-<!-- .slide: data-menu-title="Toegankelijk Groningen" -->
-## Toegankelijk Groningen
+<!-- .slide: data-menu-title="Werkgroep Toegankelijk Groningen" -->
+## Werkgroep Toegankelijk Groningen
 
 Voor 2016:
 
@@ -248,5 +187,15 @@ Note:
 
 ---
 
+<!-- .slide: data-menu-title="Gigitaal platform Toegankelijk Groningen" -->
+## Digitaal platform Toegankelijk Groningen
+
+---
+
+
+<!-- .slide: data-menu-title="Agenda" data-background-image="images/raising_questions.jpg" data-background-opacity="0.2" -->
+## Vragen?
+
+---
 
 <!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
