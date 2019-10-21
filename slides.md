@@ -187,15 +187,13 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="˜Digitaal platform Toegankelijk Groningen" -->
-## Digitaal platform Toegankelijk Groningen
-
----
-
 
 <!-- .slide: data-menu-title="Agenda" data-background-image="images/raising_questions.jpg" data-background-opacity="0.2" -->
 ## Vragen?
 
 ---
 
-<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="˜Digitaal platform Toegankelijk Groningen" -->
+## Digitaal platform Toegankelijk Groningen
+
+[Website Tioegankelijk Groningen](https://h-intveen.github.io/TGwebsite/)
