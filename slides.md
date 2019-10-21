@@ -196,4 +196,4 @@ Note:
 <!-- .slide: data-menu-title="˜Digitaal platform Toegankelijk Groningen" -->
 ## Digitaal platform Toegankelijk Groningen
 
-[Website Tioegankelijk Groningen](https://h-intveen.github.io/TGwebsite/)
+[Website Toegankelijk Groningen](https://h-intveen.github.io/TGwebsite/)
