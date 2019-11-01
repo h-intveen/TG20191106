@@ -39,6 +39,7 @@ Note:
 
 1. Werkgroep Toegankelijk Groningen
 2. Digitaal platform Toegankelijk Groningen
+3. Live demo
 
 ---
 
